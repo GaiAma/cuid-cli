@@ -1,0 +1,24 @@
+{
+  "name": "cuid-cli",
+  "version": "0.1.0",
+  "description": "cli to generate cuid's",
+  "main": "index.js",
+  "author": "Can Rau <cansrau@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "cuid",
+    "id generator",
+    "unique id",
+    "cli",
+    "uuid"
+  ],
+  "bin": {
+    "cuid": "./index.js"
+  },
+  "dependencies": {
+    "clear": "^0.0.1",
+    "console-clear": "^1.1.0",
+    "cuid": "^2.1.0",
+    "minimist": "^1.2.0"
+  }
+}
