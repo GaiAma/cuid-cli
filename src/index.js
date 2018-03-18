@@ -15,7 +15,7 @@ const argv = yargs
   .alias(`t`, `times`)
   .alias(`c`, `clear`)
   .alias(`s`, `slug`)
-  .describe(`t`, `How many cuid's do you need?`)
+  .describe(`t`, `Specify number of ids`)
   .describe(`c`, `Clear console before output`)
   .describe(`s`, `Cuid().slug`)
   .describe(`h`, `Show this help`)

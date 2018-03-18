@@ -1,16 +1,26 @@
 # CUID CLI
 this is a cli wrapper for Eric Elliot's [CUID script](https://github.com/ericelliott/cuid)
 
+## Install
+
+````
+$ yarn global add @gaiama/cuid-cli
+or
+$ npm -g install @gaiama/cuid-cli
+````
+
+## Usage
+
 ````
 cuid --help
 Usage: cuid [times] [options]
 
 Optionen:
-  --version, -V  Version anzeigen                                      [boolean]
-  -t, --times    How many cuid's do you need?
-  -c, --clear    Clear console before output                           [boolean]
-  -s, --slug     Cuid().slug                                           [boolean]
-  -h, --help     Hilfe anzeigen                                        [boolean]
+  --version, -V  Show version number             [boolean]
+  -t, --times    Specify number of ids
+  -c, --clear    Clear console before output     [boolean]
+  -s, --slug     Cuid().slug                     [boolean]
+  -h, --help     Show help                       [boolean]
 
 Beispiele:
   cuid          prints 1 id
