@@ -1,5 +1,5 @@
-# CUID CLI  [![npm version](https://badge.fury.io/js/%40gaiama%2Fcuid-cli.svg)]
-this is a cli wrapper for Eric Elliot's [CUID script](https://github.com/ericelliott/cuid)
+# cuid CLI  ![npm version](https://badge.fury.io/js/%40gaiama%2Fcuid-cli.svg)
+this is a cli wrapper for Eric Elliot's [cuid script](https://github.com/ericelliott/cuid)
 
 ## Install
 
@@ -19,7 +19,7 @@ Optionen:
   --version, -V  Show version number             [boolean]
   -t, --times    Specify number of ids
   -c, --clear    Clear console before output     [boolean]
-  -s, --slug     Cuid().slug                     [boolean]
+  -s, --slug     cuid().slug                     [boolean]
   -h, --help     Show help                       [boolean]
 
 Beispiele:
@@ -33,3 +33,6 @@ Beispiele:
 
 Get more info about cuids https://usecuid.org
 ````
+
+## Related
+- [cuid](https://github.com/ericelliott/cuid)

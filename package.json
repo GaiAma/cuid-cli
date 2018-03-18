@@ -1,11 +1,18 @@
 {
   "name": "@gaiama/cuid-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "cli to generate cuid's",
   "main": "index.js",
   "author": "Can Rau <cansrau@gmail.com>",
   "license": "MIT",
-  "keywords": ["cuid", "id generator", "unique id", "cli", "uuid"],
+  "keywords": [
+    "cuid",
+    "id generator",
+    "unique id",
+    "cli",
+    "uuid",
+    "collision resistance"
+  ],
   "bin": {
     "cuid": "./index.js"
   },
@@ -24,7 +31,11 @@
     "@babel/preset-env": "^7.0.0-beta.41"
   },
   "babel": {
-    "presets": ["@babel/preset-env"],
-    "plugins": ["@babel/plugin-proposal-object-rest-spread"]
+    "presets": [
+      "@babel/preset-env"
+    ],
+    "plugins": [
+      "@babel/plugin-proposal-object-rest-spread"
+    ]
   }
 }
