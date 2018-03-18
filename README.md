@@ -1,4 +1,4 @@
-# CUID CLI
+# CUID CLI  [![npm version](https://badge.fury.io/js/gaiama/cuid-cli.svg)]
 this is a cli wrapper for Eric Elliot's [CUID script](https://github.com/ericelliott/cuid)
 
 ## Install

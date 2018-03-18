@@ -1,6 +1,6 @@
 {
-  "name": "cuid-cli",
-  "version": "1.0.1",
+  "name": "@gaiama/cuid-cli",
+  "version": "1.0.2",
   "description": "cli to generate cuid's",
   "main": "index.js",
   "author": "Can Rau <cansrau@gmail.com>",
