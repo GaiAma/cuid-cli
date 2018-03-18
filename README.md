@@ -1,4 +1,4 @@
-# cuid CLI  ![npm version](https://badge.fury.io/js/%40gaiama%2Fcuid-cli.svg)
+# cuid CLI  [![npm version](https://badge.fury.io/js/%40gaiama%2Fcuid-cli.svg)](https://badge.fury.io/js/%40gaiama%2Fcuid-cli)
 this is a cli wrapper for Eric Elliot's [cuid script](https://github.com/ericelliott/cuid)
 
 ## Install
