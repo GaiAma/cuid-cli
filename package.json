@@ -1,24 +1,30 @@
 {
   "name": "cuid-cli",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "cli to generate cuid's",
   "main": "index.js",
   "author": "Can Rau <cansrau@gmail.com>",
   "license": "MIT",
-  "keywords": [
-    "cuid",
-    "id generator",
-    "unique id",
-    "cli",
-    "uuid"
-  ],
+  "keywords": ["cuid", "id generator", "unique id", "cli", "uuid"],
   "bin": {
     "cuid": "./index.js"
   },
+  "scripts": {
+    "build": "babel src --out-dir .",
+    "watch": "yarn build --watch"
+  },
   "dependencies": {
-    "clear": "^0.0.1",
     "console-clear": "^1.1.0",
     "cuid": "^2.1.0",
-    "minimist": "^1.2.0"
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.0.0-beta.41",
+    "@babel/core": "^7.0.0-beta.41",
+    "@babel/preset-env": "^7.0.0-beta.41"
+  },
+  "babel": {
+    "presets": ["@babel/preset-env"],
+    "plugins": ["@babel/plugin-proposal-object-rest-spread"]
   }
 }
