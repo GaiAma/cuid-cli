@@ -15,14 +15,14 @@ $ npm -g install @gaiama/cuid-cli
 cuid --help
 Usage: cuid [times] [options]
 
-Optionen:
+Options:
   --version, -V  Show version number             [boolean]
   -t, --times    Specify number of ids
   -c, --clear    Clear console before output     [boolean]
   -s, --slug     cuid().slug                     [boolean]
   -h, --help     Show help                       [boolean]
 
-Beispiele:
+Examples:
   cuid          prints 1 id
   cuid 5        prints 5 ids
   cuid 5 -s     prints 5 short id
