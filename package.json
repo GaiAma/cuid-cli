@@ -1,9 +1,10 @@
 {
   "name": "@gaiama/cuid-cli",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "cli to generate cuid's",
   "main": "index.js",
   "author": "Can Rau <cansrau@gmail.com>",
+  "repository": "GaiAma/cuid-cli",
   "license": "MIT",
   "keywords": [
     "cuid",
@@ -37,5 +38,8 @@
     "plugins": [
       "@babel/plugin-proposal-object-rest-spread"
     ]
-  }
+  },
+  "files": [
+    "index.js"
+  ]
 }
