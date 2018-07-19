@@ -1,0 +1,22 @@
+{
+  "projectName": "cuid-cli",
+  "projectOwner": "Can Rau",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "contributors": [
+    {
+      "login": "sladwig",
+      "name": "Stefan Ladwig",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/79246?v=4",
+      "profile": "https://github.com/sladwig",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ]
+}

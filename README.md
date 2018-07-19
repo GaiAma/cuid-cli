@@ -1,4 +1,7 @@
-# cuid CLI  [![npm version](https://badge.fury.io/js/%40gaiama%2Fcuid-cli.svg)](https://badge.fury.io/js/%40gaiama%2Fcuid-cli)
+# cuid CLI  
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+[![npm (scoped)](https://img.shields.io/npm/v/@gaiama/cuid-cli.svg)](npmjs.com/package/@gaiama/cuid-cli)
+
 this is a cli wrapper for Eric Elliot's [cuid script](https://github.com/ericelliott/cuid)
 
 ## Install
@@ -36,3 +39,10 @@ Get more info about cuids https://usecuid.org
 
 ## Related
 - [cuid](https://github.com/ericelliott/cuid)
+
+## Contributors
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+| [<img src="https://avatars3.githubusercontent.com/u/79246?v=4" width="100px;"/><br /><sub><b>Stefan Ladwig</b></sub>](https://github.com/sladwig)<br />[📖](https://github.com/Can Rau/cuid-cli/commits?author=sladwig "Documentation") |
+| :---: |
+<!-- ALL-CONTRIBUTORS-LIST:END -->
