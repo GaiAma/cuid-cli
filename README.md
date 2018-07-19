@@ -1,6 +1,6 @@
 # cuid CLI  
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
-[![npm (scoped)](https://img.shields.io/npm/v/@gaiama/cuid-cli.svg)](npmjs.com/package/@gaiama/cuid-cli)
+[![npm (scoped)](https://img.shields.io/npm/v/@gaiama/cuid-cli.svg)](https://www.npmjs.com/package/@gaiama/cuid-cli)
 
 this is a cli wrapper for Eric Elliot's [cuid script](https://github.com/ericelliott/cuid)
 
