@@ -24,15 +24,15 @@
     "contributors:generate": "all-contributors generate"
   },
   "dependencies": {
-    "console-clear": "^1.1.0",
-    "cuid": "^2.1.0",
-    "yargs": "^11.0.0"
+    "console-clear": "^1.1.1",
+    "cuid": "^2.1.4",
+    "yargs": "^12.0.2"
   },
   "devDependencies": {
-    "@babel/cli": "^7.0.0-beta.41",
-    "@babel/core": "^7.0.0-beta.41",
-    "@babel/preset-env": "^7.0.0-beta.41",
-    "all-contributors-cli": "^5.3.0"
+    "@babel/cli": "^7.1.2",
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "all-contributors-cli": "^5.4.0"
   },
   "babel": {
     "presets": [
