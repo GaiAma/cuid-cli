@@ -26,7 +26,9 @@
     "watch": "yarn build --watch",
     "contributors:add": "all-contributors add",
     "contributors:generate": "all-contributors generate",
-    "prepublishOnly": "yarn build"
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0 -u",
+    "github-release": "conventional-github-releaser -p angular -r 0",
+    "prepublishOnly": "yarn build && yarn changelog"
   },
   "dependencies": {
     "console-clear": "^1.1.1",
@@ -37,7 +39,9 @@
     "@babel/cli": "^7.1.2",
     "@babel/core": "^7.1.2",
     "@babel/preset-env": "^7.1.0",
-    "all-contributors-cli": "^5.4.0"
+    "all-contributors-cli": "^5.4.0",
+    "conventional-changelog-cli": "2.0.5",
+    "conventional-github-releaser": "3.1.2"
   },
   "babel": {
     "presets": [
