@@ -25,7 +25,8 @@
     "build": "babel src --out-dir dist",
     "watch": "yarn build --watch",
     "contributors:add": "all-contributors add",
-    "contributors:generate": "all-contributors generate"
+    "contributors:generate": "all-contributors generate",
+    "prepublishOnly": "yarn build"
   },
   "dependencies": {
     "console-clear": "^1.1.1",
