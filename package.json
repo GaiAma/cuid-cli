@@ -2,7 +2,7 @@
   "name": "@gaiama/cuid-cli",
   "version": "1.0.8",
   "description": "cli to generate cuid's",
-  "main": "index.js",
+  "main": "dist/index.js",
   "author": "Can Rau <cansrau@gmail.com>",
   "repository": "GaiAma/cuid-cli",
   "license": "MIT",
@@ -15,10 +15,10 @@
     "collision resistance"
   ],
   "bin": {
-    "cuid": "./index.js"
+    "cuid": "dist/index.js"
   },
   "scripts": {
-    "build": "babel src --out-dir .",
+    "build": "babel src --out-dir dist",
     "watch": "yarn build --watch",
     "contributors:add": "all-contributors add",
     "contributors:generate": "all-contributors generate"
@@ -43,6 +43,6 @@
     ]
   },
   "files": [
-    "index.js"
+    "dist"
   ]
 }
