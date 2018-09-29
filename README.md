@@ -1,5 +1,5 @@
 # cuid CLI  
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 [![npm (scoped)](https://img.shields.io/npm/v/@gaiama/cuid-cli.svg)](https://www.npmjs.com/package/@gaiama/cuid-cli)
 
 this is a cli wrapper for Eric Elliot's [cuid script](https://github.com/ericelliott/cuid)
@@ -46,8 +46,8 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img src="https://avatars3.githubusercontent.com/u/79246?v=4" width="100px;"/><br /><sub><b>Stefan Ladwig</b></sub>](https://github.com/sladwig)<br />[📖](https://github.com/GaiAma/cuid-cli/commits?author=sladwig "Documentation") |
-| :---: |
+| [<img src="https://avatars3.githubusercontent.com/u/79246?v=4" width="100px;"/><br /><sub><b>Stefan Ladwig</b></sub>](https://github.com/sladwig)<br />[📖](https://github.com/GaiAma/cuid-cli/commits?author=sladwig "Documentation") | [<img src="https://avatars0.githubusercontent.com/u/5196971?v=4" width="100px;"/><br /><sub><b>Can</b></sub>](https://www.GaiAma.org)<br />[💬](#question-CanRau "Answering Questions") [🐛](https://github.com/GaiAma/cuid-cli/issues?q=author%3ACanRau "Bug reports") [💻](https://github.com/GaiAma/cuid-cli/commits?author=CanRau "Code") [📖](https://github.com/GaiAma/cuid-cli/commits?author=CanRau "Documentation") [👀](#review-CanRau "Reviewed Pull Requests") |
+| :---: | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind are welcome!
 
