@@ -7,6 +7,9 @@
   "repository": "GaiAma/cuid-cli",
   "bugs": "https://github.com/GaiAma/cuid-cli/issues",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "cuid",
     "id generator",
