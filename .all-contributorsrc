@@ -10,15 +10,6 @@
   "commit": true,
   "contributors": [
     {
-      "login": "sladwig",
-      "name": "Stefan Ladwig",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/79246?v=4",
-      "profile": "https://github.com/sladwig",
-      "contributions": [
-        "doc"
-      ]
-    },
-    {
       "login": "CanRau",
       "name": "Can",
       "avatar_url": "https://avatars0.githubusercontent.com/u/5196971?v=4",
@@ -29,6 +20,15 @@
         "code",
         "doc",
         "review"
+      ]
+    },
+    {
+      "login": "sladwig",
+      "name": "Stefan Ladwig",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/79246?v=4",
+      "profile": "https://github.com/sladwig",
+      "contributions": [
+        "doc"
       ]
     }
   ]
