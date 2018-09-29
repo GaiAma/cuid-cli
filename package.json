@@ -28,7 +28,7 @@
     "contributors:generate": "all-contributors generate",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0 -u",
     "github-release": "conventional-github-releaser -p angular -r 0",
-    "prepublishOnly": "yarn build && yarn changelog"
+    "prepublishOnly": "yarn build"
   },
   "dependencies": {
     "console-clear": "^1.1.1",
