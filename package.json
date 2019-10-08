@@ -5,6 +5,9 @@
   "main": "dist/index.js",
   "author": "Can Rau <cansrau@gmail.com>",
   "repository": "GaiAma/cuid-cli",
+  "contributors": [
+    "Johannes Schickling <schickling.j@gmail.com>"
+  ],
   "bugs": "https://github.com/GaiAma/cuid-cli/issues",
   "license": "MIT",
   "publishConfig": {
