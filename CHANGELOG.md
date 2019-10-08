@@ -1,3 +1,13 @@
+<a name="1.4.0"></a>
+# [1.4.0](https://github.com/GaiAma/cuid-cli/compare/v1.0.12...v1.4.0) (2019-10-08)
+
+
+### Features
+
+* upgrade deps ([b29d846](https://github.com/GaiAma/cuid-cli/commit/b29d846))
+
+
+
 <a name="1.0.12"></a>
 ## [1.0.12](https://github.com/GaiAma/cuid-cli/compare/v1.0.11...v1.0.12) (2019-09-19)
 
