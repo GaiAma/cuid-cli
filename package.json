@@ -33,12 +33,12 @@
   "dependencies": {
     "console-clear": "^1.1.1",
     "cuid": "^2.1.6",
-    "yargs": "^14.0.0"
+    "yargs": "^14.2.0"
   },
   "devDependencies": {
-    "@babel/cli": "^7.6.0",
-    "@babel/core": "^7.6.0",
-    "@babel/preset-env": "^7.6.0",
+    "@babel/cli": "^7.6.2",
+    "@babel/core": "^7.6.2",
+    "@babel/preset-env": "^7.6.2",
     "all-contributors-cli": "^6.9.1",
     "conventional-changelog-cli": "2.0.23",
     "conventional-github-releaser": "3.1.3"
