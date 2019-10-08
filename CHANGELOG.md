@@ -1,3 +1,8 @@
+<a name="1.4.1"></a>
+## [1.4.1](https://github.com/GaiAma/cuid-cli/compare/v1.4.0...v1.4.1) (2019-10-08)
+
+
+
 <a name="1.4.0"></a>
 # [1.4.0](https://github.com/GaiAma/cuid-cli/compare/v1.0.12...v1.4.0) (2019-10-08)
 
