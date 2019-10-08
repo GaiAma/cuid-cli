@@ -3,11 +3,11 @@
   "version": "1.0.12",
   "description": "cli to generate cuid's",
   "main": "dist/index.js",
-  "author": "Can Rau <cansrau@gmail.com>",
-  "repository": "GaiAma/cuid-cli",
+  "author": "Can Rau <cansrau@gmail.com> (https://www.canrau.com)",
   "contributors": [
     "Johannes Schickling <schickling.j@gmail.com>"
   ],
+  "repository": "https://github.com/GaiAma/cuid-cli",
   "bugs": "https://github.com/GaiAma/cuid-cli/issues",
   "license": "MIT",
   "publishConfig": {
