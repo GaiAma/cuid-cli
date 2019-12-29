@@ -1,6 +1,6 @@
 {
   "name": "cuid-cli",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "cli to generate cuid's",
   "main": "dist/index.js",
   "author": "Can Rau <cansrau@gmail.com> (https://www.canrau.com)",
