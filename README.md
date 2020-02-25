@@ -2,7 +2,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 [![npm (scoped)](https://img.shields.io/npm/v/cuid-cli.svg)](https://www.npmjs.com/package/cuid-cli)
 
-this is a cli wrapper for Eric Elliot's [cuid script](https://github.com/ericelliott/cuid)
+This is a cli wrapper for Eric Elliott's [cuid script](https://github.com/ericelliott/cuid)
 
 ## Install
 
